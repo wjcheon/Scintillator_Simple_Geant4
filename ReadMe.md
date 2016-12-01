@@ -1,19 +1,19 @@
 ## About this code  
 The Geant4 code is a simulation about scintillator.
 
-#Geometry  
+### Geometry  
 1) World  
 2) WaterPhantom (polystyrene)  
 3) Scintillator   
 
-#Source   
+### Source   
 1) General particle source   
 
-#Scoring    
+### Scoring    
 1) Scintillator (Voxel geometry 100 x 100)  
 
 
-#Figure    
+### Figure    
 <img src = https://github.com/wjcheon/Scintillator_Simple_Geant4/blob/master/Scintillator_Simple_Geometry.png />  
 Fig.1 Geometry of simulation: Scintillator_Simple. Blue-box is water phantom and White-plate is scintillator  
 
@@ -21,9 +21,13 @@ Fig.1 Geometry of simulation: Scintillator_Simple. Blue-box is water phantom and
 Fig.2 Geometry of simulation when some particle was irradiated to phantom.  
 
 
+
+
 date: 2016.12.1
 All rights of "Scintillator_Simple" reserved to wjcheon.  
 If you have any question for this code, please send the e-mail to me.  
+
+
 
 
 
