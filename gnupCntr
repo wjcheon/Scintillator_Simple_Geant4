@@ -1,0 +1,20 @@
+# Set various features of the plot
+set pm3d
+unset surface  # don't need surfaces
+set view map
+set contour
+set key outside
+set cntrparam levels 10    # sets the num of contour lines
+ 
+# Set a nice color palette
+set palette model RGB defined (0'black',1'blue',2'cyan',3'green',4'yellow',5'red',8'purple' )
+ 
+# Axes
+set xlabel 'depth (mm)'
+set ylabel 'lateral (mm)'
+set format x '%.1f'
+set format y '%.1f'
+set format z '%.2f'				
+ 
+# Now plot
+splot 'DE.out' using 1:2:3 notitle with lines lt 0.1

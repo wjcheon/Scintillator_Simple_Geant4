@@ -1,0 +1,7 @@
+# Macro file: run.mac
+
+
+/run/verbose 1
+/tracking/verbose 2
+
+/run/beamOn 200
