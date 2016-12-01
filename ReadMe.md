@@ -6,11 +6,19 @@ Geometry
 2) WaterPhantom (polystyrene)  
 3) Scintillator   
 
-Source 
+Source   
 1) General particle source   
 
-Scoring 
+Scoring   
 1) Scintillator (Voxel geometry 100 x 100)  
+
+
+Figure
+### Geometry of simulation
+<img src = https://github.com/wjcheon/Scintillator_Simple_Geant4/blob/master/Scintillator_Simple_Geometry.png />  
+
+### Geometry of simulation with Beam On
+<img src = https://github.com/wjcheon/Scintillator_Simple_Geant4/blob/master/Scintillator_Simple_beamOn.png />
 
 date: 2016.12.1
 All rights of "Scintillator_Simple" reserved to wjcheon.  
